@@ -1,0 +1,41 @@
+_repo: Dorothy-at-Oak-Knowe_32310
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Mencl, Rudolf
+    gutenberg_agent_id: '31883'
+    url: http://www.gutenberg.org/2009/agents/31883
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: Dorothy is sent to Canada to continue her schooling at Oak Knowe; there
+  she uncovers a mystery.
+gutenberg_issued: '2010-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Chester, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcsh 'Americans -- Canada -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Missing children -- Juvenile fiction'
+title: Dorothy at Oak Knowe
+url: http://www.gutenberg.org/ebooks/32310
