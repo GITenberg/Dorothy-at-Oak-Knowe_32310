@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31472
 description: Dorothy is sent to Canada to continue her schooling at Oak Knowe; there
   she uncovers a mystery.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32310#Dorothy-at-Oak-Knowe
 gutenberg_issued: '2010-05-09'
 gutenberg_type: Text
 identifiers:
